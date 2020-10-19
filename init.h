@@ -10,6 +10,7 @@ KEY_LEFT = 75,
 KEY_RIGHT = 77
 };
 
+
 void initSys();
 int getTime();
 TKey keyPress();
